@@ -74,8 +74,20 @@
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
 </div>
+    
+### <br>    ❖ CREATE ACCOUNT HOST.TALKDROVE WEB ❖
 
-<div align="center">
+<p align="center">
+<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
+<p/>
+
+
+### <br>    ❖  FREE DEPLOY HOST.TALKDROVE WEB ❖
+
+<p align="center">
+<a href="https://host.talkdrove.com/share-bot/62"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
+<p/> 
+
     
     
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
